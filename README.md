@@ -17,8 +17,8 @@ Dashboard แบบเรียลไทม์สำหรับแสดงค�
 
 1. **Clone โปรเจกต์**
    ```bash
-   git clone https://github.com/theeranan008/vibration-dashboard.git
-   cd vibration-dashboard
+   git clone https://github.com/theeranan/vibration_alert.git
+   cd vibration_alert
    ```
 
 2. **ติดตั้ง Dependencies**
