@@ -4,9 +4,10 @@
 #define sensor_pin A0
 
 // กำหนดชื่อ WiFi และรหัสผ่าน
-const char* ssid = "powerheart";
-const char* password = "0824071726";
-const char* mqtt_server = "192.168.0.160";
+const char* ssid = "your_wifi_name";
+const char* password = "your_wifi_password";
+const char* mqtt_server = "your_mqtt_broker_ip";
+// const char* mqtt_server = "broker.hivemq.com"; // Public MQTT broker
 
 WiFiClient espClient;
 PubSubClient client(espClient);

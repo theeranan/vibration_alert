@@ -12,7 +12,7 @@ import { client, MQTT_TOPIC } from "../mqtt";
 import React from "react";
 
 export default function SensorLineChart() {
-  const [data, setData] = useState([]);
+  const [data, setData] = useState<{ time: string; value: number }[]>([]);
   const [ready, setReady] = useState(false); // 👈 ใช้ flag ป้องกัน SSR
 
   useEffect(() => {
@@ -36,7 +36,9 @@ export default function SensorLineChart() {
       }
     });
 
-    return () => client.end();
+    return () => {
+      client.end();
+    };
   }, []);
 
   if (!ready) return null; // ❗ ป้องกัน render SSR

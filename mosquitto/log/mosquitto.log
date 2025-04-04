@@ -305,3 +305,4 @@
 1743798062: Client mqttx_d4c24322 has exceeded timeout, disconnecting.
 1743798067: New connection from 192.168.65.1:24980 on port 1883.
 1743798067: New client connected from 192.168.65.1:24980 as mqttx_d4c24322 (p5, c1, k60).
+1743798303: New client connected from ::ffff:192.168.65.1:32472 as mqttjs_90588e95 (p2, c1, k60).
