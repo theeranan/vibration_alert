@@ -1,0 +1,304 @@
+1743792496: mosquitto version 2.0.21 starting
+1743792496: Config loaded from /mosquitto/config/mosquitto.conf.
+1743792496: Opening ipv4 listen socket on port 1883.
+1743792496: Opening ipv6 listen socket on port 1883.
+1743792496: Opening websockets listen socket on port 9001.
+1743792496: mosquitto version 2.0.21 running
+1743792864: New connection from 192.168.65.1:23656 on port 1883.
+1743792864: New client connected from 192.168.65.1:23656 as ESP8266Client-7202 (p2, c1, k15).
+1743792943: New connection from 192.168.65.1:23238 on port 1883.
+1743792943: New client connected from 192.168.65.1:23238 as mqttx_d4c24322 (p5, c1, k60).
+1743793324: Client ESP8266Client-7202 has exceeded timeout, disconnecting.
+1743793334: New connection from 192.168.65.1:49657 on port 1883.
+1743793334: New client connected from 192.168.65.1:49657 as ESP8266Client-deb8 (p2, c1, k15).
+1743793349: Client ESP8266Client-deb8 closed its connection.
+1743793349: New connection from 192.168.65.1:35292 on port 1883.
+1743793349: New client connected from 192.168.65.1:35292 as ESP8266Client-30e9 (p2, c1, k15).
+1743793363: New connection from 192.168.65.1:64514 on port 1883.
+1743793363: New client connected from 192.168.65.1:64514 as ESP8266Client-c12 (p2, c1, k15).
+1743793372: Client ESP8266Client-30e9 has exceeded timeout, disconnecting.
+1743793376: New connection from 192.168.65.1:23550 on port 1883.
+1743793376: New client connected from 192.168.65.1:23550 as ESP8266Client-bca6 (p2, c1, k15).
+1743793386: Client ESP8266Client-c12 has exceeded timeout, disconnecting.
+1743793390: New connection from 192.168.65.1:44934 on port 1883.
+1743793390: New client connected from 192.168.65.1:44934 as ESP8266Client-e512 (p2, c1, k15).
+1743793399: Client ESP8266Client-bca6 has exceeded timeout, disconnecting.
+1743793403: New connection from 192.168.65.1:23552 on port 1883.
+1743793403: New client connected from 192.168.65.1:23552 as ESP8266Client-9e3 (p2, c1, k15).
+1743793413: Client ESP8266Client-e512 has exceeded timeout, disconnecting.
+1743793426: Client ESP8266Client-9e3 has exceeded timeout, disconnecting.
+1743793442: New connection from 192.168.65.1:18546 on port 1883.
+1743793442: New client connected from 192.168.65.1:18546 as ESP8266Client-602b (p2, c1, k15).
+1743793455: New connection from 192.168.65.1:60540 on port 1883.
+1743793455: New client connected from 192.168.65.1:60540 as ESP8266Client-2f01 (p2, c1, k15).
+1743793465: Client ESP8266Client-602b has exceeded timeout, disconnecting.
+1743793465: Client mqttx_d4c24322 disconnected.
+1743793466: New connection from 192.168.65.1:44890 on port 1883.
+1743793466: New client connected from 192.168.65.1:44890 as mqttx_d4c24322 (p5, c1, k60).
+1743793469: New connection from 192.168.65.1:59615 on port 1883.
+1743793469: New client connected from 192.168.65.1:59615 as ESP8266Client-4016 (p2, c1, k15).
+1743793478: Client ESP8266Client-2f01 has exceeded timeout, disconnecting.
+1743793482: New connection from 192.168.65.1:48062 on port 1883.
+1743793482: New client connected from 192.168.65.1:48062 as ESP8266Client-e33a (p2, c1, k15).
+1743793492: Client ESP8266Client-4016 has exceeded timeout, disconnecting.
+1743793496: New connection from 192.168.65.1:52300 on port 1883.
+1743793496: New client connected from 192.168.65.1:52300 as ESP8266Client-956e (p2, c1, k15).
+1743793505: Client ESP8266Client-e33a has exceeded timeout, disconnecting.
+1743793509: New connection from 192.168.65.1:36897 on port 1883.
+1743793509: New client connected from 192.168.65.1:36897 as ESP8266Client-a504 (p2, c1, k15).
+1743793519: Client ESP8266Client-956e has exceeded timeout, disconnecting.
+1743793523: New connection from 192.168.65.1:57143 on port 1883.
+1743793523: New client connected from 192.168.65.1:57143 as ESP8266Client-1350 (p2, c1, k15).
+1743793532: Client ESP8266Client-a504 has exceeded timeout, disconnecting.
+1743793536: New connection from 192.168.65.1:30973 on port 1883.
+1743793536: New client connected from 192.168.65.1:30973 as ESP8266Client-e96a (p2, c1, k15).
+1743793546: Client ESP8266Client-1350 has exceeded timeout, disconnecting.
+1743793550: New connection from 192.168.65.1:49371 on port 1883.
+1743793550: New client connected from 192.168.65.1:49371 as ESP8266Client-2218 (p2, c1, k15).
+1743793559: Client ESP8266Client-e96a has exceeded timeout, disconnecting.
+1743793563: New connection from 192.168.65.1:46349 on port 1883.
+1743793563: New client connected from 192.168.65.1:46349 as ESP8266Client-1e08 (p2, c1, k15).
+1743793573: Client ESP8266Client-2218 has exceeded timeout, disconnecting.
+1743793577: New connection from 192.168.65.1:32076 on port 1883.
+1743793577: New client connected from 192.168.65.1:32076 as ESP8266Client-119f (p2, c1, k15).
+1743793586: Client ESP8266Client-1e08 has exceeded timeout, disconnecting.
+1743793591: New connection from 192.168.65.1:44576 on port 1883.
+1743793591: New client connected from 192.168.65.1:44576 as ESP8266Client-12ce (p2, c1, k15).
+1743793600: Client ESP8266Client-119f has exceeded timeout, disconnecting.
+1743793604: New connection from 192.168.65.1:64982 on port 1883.
+1743793604: New client connected from 192.168.65.1:64982 as ESP8266Client-c1d1 (p2, c1, k15).
+1743793614: Client ESP8266Client-12ce has exceeded timeout, disconnecting.
+1743793627: Client ESP8266Client-c1d1 has exceeded timeout, disconnecting.
+1743793643: New connection from 192.168.65.1:19905 on port 1883.
+1743793643: New client connected from 192.168.65.1:19905 as ESP8266Client-876e (p2, c1, k15).
+1743793657: New connection from 192.168.65.1:55985 on port 1883.
+1743793657: New client connected from 192.168.65.1:55985 as ESP8266Client-75eb (p2, c1, k15).
+1743793666: Client ESP8266Client-876e has exceeded timeout, disconnecting.
+1743793670: New connection from 192.168.65.1:44140 on port 1883.
+1743793670: New client connected from 192.168.65.1:44140 as ESP8266Client-6a43 (p2, c1, k15).
+1743793680: Client ESP8266Client-75eb has exceeded timeout, disconnecting.
+1743793684: New connection from 192.168.65.1:57079 on port 1883.
+1743793684: New client connected from 192.168.65.1:57079 as ESP8266Client-5ec0 (p2, c1, k15).
+1743793693: Client ESP8266Client-6a43 has exceeded timeout, disconnecting.
+1743793698: New connection from 192.168.65.1:60473 on port 1883.
+1743793698: New client connected from 192.168.65.1:60473 as ESP8266Client-5381 (p2, c1, k15).
+1743793707: Client ESP8266Client-5ec0 has exceeded timeout, disconnecting.
+1743793721: Client ESP8266Client-5381 has exceeded timeout, disconnecting.
+1743793731: New connection from 192.168.65.1:29029 on port 1883.
+1743793731: New client connected from 192.168.65.1:29029 as ESP8266Client-acb0 (p2, c1, k15).
+1743793745: New connection from 192.168.65.1:37738 on port 1883.
+1743793745: New client connected from 192.168.65.1:37738 as ESP8266Client-87dd (p2, c1, k15).
+1743793754: Client ESP8266Client-acb0 has exceeded timeout, disconnecting.
+1743793759: New connection from 192.168.65.1:32008 on port 1883.
+1743793759: New client connected from 192.168.65.1:32008 as ESP8266Client-4590 (p2, c1, k15).
+1743793768: Client ESP8266Client-87dd has exceeded timeout, disconnecting.
+1743793782: Client ESP8266Client-4590 has exceeded timeout, disconnecting.
+1743793795: New connection from 192.168.65.1:59478 on port 1883.
+1743793795: New client connected from 192.168.65.1:59478 as ESP8266Client-8f27 (p2, c1, k15).
+1743793808: New connection from 192.168.65.1:52985 on port 1883.
+1743793808: New client connected from 192.168.65.1:52985 as ESP8266Client-e78a (p2, c1, k15).
+1743793818: Client ESP8266Client-8f27 has exceeded timeout, disconnecting.
+1743793822: New connection from 192.168.65.1:16290 on port 1883.
+1743793822: New client connected from 192.168.65.1:16290 as ESP8266Client-6d8d (p2, c1, k15).
+1743793826: Client mqttx_d4c24322 disconnected.
+1743793831: Client ESP8266Client-e78a has exceeded timeout, disconnecting.
+1743793836: New connection from 192.168.65.1:51723 on port 1883.
+1743793836: New client connected from 192.168.65.1:51723 as ESP8266Client-3c94 (p2, c1, k15).
+1743793843: mosquitto version 2.0.21 terminating
+1743793843: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743793846: mosquitto version 2.0.21 starting
+1743793846: Config loaded from /mosquitto/config/mosquitto.conf.
+1743793846: Opening ipv4 listen socket on port 1883.
+1743793846: Opening ipv6 listen socket on port 1883.
+1743793846: Opening websockets listen socket on port 9001.
+1743793846: mosquitto version 2.0.21 running
+1743793849: New connection from 192.168.65.1:22254 on port 1883.
+1743793849: New client connected from 192.168.65.1:22254 as ESP8266Client-a8b5 (p2, c1, k15).
+1743793853: New connection from 192.168.65.1:57448 on port 1883.
+1743793853: New client connected from 192.168.65.1:57448 as mqttx_d4c24322 (p5, c1, k60).
+1743793869: New connection from 192.168.65.1:33029 on port 1883.
+1743793869: New client connected from 192.168.65.1:33029 as ESP8266Client-f815 (p2, c1, k15).
+1743793872: Client ESP8266Client-a8b5 has exceeded timeout, disconnecting.
+1743793883: New connection from 192.168.65.1:19232 on port 1883.
+1743793883: New client connected from 192.168.65.1:19232 as ESP8266Client-fda7 (p2, c1, k15).
+1743793892: Client ESP8266Client-f815 has exceeded timeout, disconnecting.
+1743793896: New connection from 192.168.65.1:56754 on port 1883.
+1743793896: New client connected from 192.168.65.1:56754 as ESP8266Client-abaa (p2, c1, k15).
+1743793906: Client ESP8266Client-fda7 has exceeded timeout, disconnecting.
+1743793910: New connection from 192.168.65.1:39989 on port 1883.
+1743793910: New client connected from 192.168.65.1:39989 as ESP8266Client-6dd8 (p2, c1, k15).
+1743793919: Client ESP8266Client-abaa has exceeded timeout, disconnecting.
+1743793924: New connection from 192.168.65.1:62037 on port 1883.
+1743793924: New client connected from 192.168.65.1:62037 as ESP8266Client-537d (p2, c1, k15).
+1743793933: Client ESP8266Client-6dd8 has exceeded timeout, disconnecting.
+1743793938: New connection from 192.168.65.1:29656 on port 1883.
+1743793938: New client connected from 192.168.65.1:29656 as ESP8266Client-4b6a (p2, c1, k15).
+1743793947: Client ESP8266Client-537d has exceeded timeout, disconnecting.
+1743793951: New connection from 192.168.65.1:27413 on port 1883.
+1743793951: New client connected from 192.168.65.1:27413 as ESP8266Client-a04b (p2, c1, k15).
+1743793961: Client ESP8266Client-4b6a has exceeded timeout, disconnecting.
+1743793974: Client ESP8266Client-a04b has exceeded timeout, disconnecting.
+1743793984: New connection from 192.168.65.1:50705 on port 1883.
+1743793984: New client connected from 192.168.65.1:50705 as ESP8266Client-64ee (p2, c1, k15).
+1743793998: New connection from 192.168.65.1:54800 on port 1883.
+1743793998: New client connected from 192.168.65.1:54800 as ESP8266Client-7882 (p2, c1, k15).
+1743794007: Client ESP8266Client-64ee has exceeded timeout, disconnecting.
+1743794013: Client ESP8266Client-7882 closed its connection.
+1743794017: New connection from 192.168.65.1:44212 on port 1883.
+1743794017: New client connected from 192.168.65.1:44212 as ESP8266Client-7347 (p2, c1, k15).
+1743794030: New connection from 192.168.65.1:50903 on port 1883.
+1743794030: New client connected from 192.168.65.1:50903 as ESP8266Client-5e13 (p2, c1, k15).
+1743794040: Client ESP8266Client-7347 has exceeded timeout, disconnecting.
+1743794044: New connection from 192.168.65.1:52223 on port 1883.
+1743794044: New client connected from 192.168.65.1:52223 as ESP8266Client-ab5d (p2, c1, k15).
+1743794053: Client ESP8266Client-5e13 has exceeded timeout, disconnecting.
+1743794058: New connection from 192.168.65.1:34305 on port 1883.
+1743794058: New client connected from 192.168.65.1:34305 as ESP8266Client-1f10 (p2, c1, k15).
+1743794067: Client ESP8266Client-ab5d has exceeded timeout, disconnecting.
+1743794072: Client ESP8266Client-1f10 closed its connection.
+1743794076: New connection from 192.168.65.1:26415 on port 1883.
+1743794076: New client connected from 192.168.65.1:26415 as ESP8266Client-bb12 (p2, c1, k15).
+1743794099: Client ESP8266Client-bb12 has exceeded timeout, disconnecting.
+1743794128: New connection from 192.168.65.1:63315 on port 1883.
+1743794128: New client connected from 192.168.65.1:63315 as ESP8266Client-d044 (p2, c1, k15).
+1743794143: Client ESP8266Client-d044 closed its connection.
+1743794146: New connection from 192.168.65.1:64001 on port 1883.
+1743794146: New client connected from 192.168.65.1:64001 as ESP8266Client-86a1 (p2, c1, k15).
+1743794160: New connection from 192.168.65.1:60548 on port 1883.
+1743794160: New client connected from 192.168.65.1:60548 as ESP8266Client-a329 (p2, c1, k15).
+1743794169: Client ESP8266Client-86a1 has exceeded timeout, disconnecting.
+1743794175: Client ESP8266Client-a329 closed its connection.
+1743794179: New connection from 192.168.65.1:46447 on port 1883.
+1743794179: New client connected from 192.168.65.1:46447 as ESP8266Client-6b78 (p2, c1, k15).
+1743794193: Client ESP8266Client-6b78 closed its connection.
+1743794193: New connection from 192.168.65.1:43877 on port 1883.
+1743794193: New client connected from 192.168.65.1:43877 as ESP8266Client-7583 (p2, c1, k15).
+1743794207: New connection from 192.168.65.1:55882 on port 1883.
+1743794207: New client connected from 192.168.65.1:55882 as ESP8266Client-abb2 (p2, c1, k15).
+1743794216: Client ESP8266Client-7583 has exceeded timeout, disconnecting.
+1743794230: Client ESP8266Client-abb2 has exceeded timeout, disconnecting.
+1743794242: New connection from 192.168.65.1:53848 on port 1883.
+1743794242: New client connected from 192.168.65.1:53848 as ESP8266Client-fc8d (p2, c1, k15).
+1743794256: New connection from 192.168.65.1:46835 on port 1883.
+1743794256: New client connected from 192.168.65.1:46835 as ESP8266Client-ff66 (p2, c1, k15).
+1743794265: Client ESP8266Client-fc8d has exceeded timeout, disconnecting.
+1743794279: Client ESP8266Client-ff66 has exceeded timeout, disconnecting.
+1743794285: New connection from 192.168.65.1:47969 on port 1883.
+1743794285: New client connected from 192.168.65.1:47969 as ESP8266Client-9075 (p2, c1, k15).
+1743794360: Client ESP8266Client-9075 has exceeded timeout, disconnecting.
+1743794368: New connection from 192.168.65.1:23211 on port 1883.
+1743794368: New client connected from 192.168.65.1:23211 as ESP8266Client-ac03 (p2, c1, k15).
+1743794382: New connection from 192.168.65.1:55780 on port 1883.
+1743794382: New client connected from 192.168.65.1:55780 as ESP8266Client-cb8d (p2, c1, k15).
+1743794391: Client ESP8266Client-ac03 has exceeded timeout, disconnecting.
+1743794396: New connection from 192.168.65.1:28129 on port 1883.
+1743794396: New client connected from 192.168.65.1:28129 as ESP8266Client-76af (p2, c1, k15).
+1743794405: Client ESP8266Client-cb8d has exceeded timeout, disconnecting.
+1743794409: New connection from 192.168.65.1:25171 on port 1883.
+1743794409: New client connected from 192.168.65.1:25171 as ESP8266Client-5504 (p2, c1, k15).
+1743794419: Client ESP8266Client-76af has exceeded timeout, disconnecting.
+1743794423: New connection from 192.168.65.1:57972 on port 1883.
+1743794423: New client connected from 192.168.65.1:57972 as ESP8266Client-6f7c (p2, c1, k15).
+1743794432: Client ESP8266Client-5504 has exceeded timeout, disconnecting.
+1743794446: Client ESP8266Client-6f7c has exceeded timeout, disconnecting.
+1743794455: New connection from 192.168.65.1:19273 on port 1883.
+1743794455: New client connected from 192.168.65.1:19273 as ESP8266Client-24a1 (p2, c1, k15).
+1743794532: Client ESP8266Client-24a1 has exceeded timeout, disconnecting.
+1743794542: New connection from 192.168.65.1:20958 on port 1883.
+1743794542: New client connected from 192.168.65.1:20958 as ESP8266Client-3cdc (p2, c1, k15).
+1743794556: New connection from 192.168.65.1:32690 on port 1883.
+1743794556: New client connected from 192.168.65.1:32690 as ESP8266Client-572f (p2, c1, k15).
+1743794565: Client ESP8266Client-3cdc has exceeded timeout, disconnecting.
+1743794569: New connection from 192.168.65.1:17890 on port 1883.
+1743794569: New client connected from 192.168.65.1:17890 as ESP8266Client-4183 (p2, c1, k15).
+1743794579: Client ESP8266Client-572f has exceeded timeout, disconnecting.
+1743794583: New connection from 192.168.65.1:26811 on port 1883.
+1743794583: New client connected from 192.168.65.1:26811 as ESP8266Client-35c4 (p2, c1, k15).
+1743794592: Client ESP8266Client-4183 has exceeded timeout, disconnecting.
+1743794606: Client ESP8266Client-35c4 has exceeded timeout, disconnecting.
+1743794617: New connection from 192.168.65.1:29065 on port 1883.
+1743794617: New client connected from 192.168.65.1:29065 as ESP8266Client-7029 (p2, c1, k15).
+1743794631: New connection from 192.168.65.1:54381 on port 1883.
+1743794631: New client connected from 192.168.65.1:54381 as ESP8266Client-8f32 (p2, c1, k15).
+1743794640: Client ESP8266Client-7029 has exceeded timeout, disconnecting.
+1743794644: New connection from 192.168.65.1:64834 on port 1883.
+1743794644: New client connected from 192.168.65.1:64834 as ESP8266Client-855a (p2, c1, k15).
+1743794654: Client ESP8266Client-8f32 has exceeded timeout, disconnecting.
+1743794658: New connection from 192.168.65.1:59116 on port 1883.
+1743794658: New client connected from 192.168.65.1:59116 as ESP8266Client-1e9c (p2, c1, k15).
+1743794667: Client ESP8266Client-855a has exceeded timeout, disconnecting.
+1743794681: Client ESP8266Client-1e9c has exceeded timeout, disconnecting.
+1743794694: New connection from 192.168.65.1:51729 on port 1883.
+1743794694: New client connected from 192.168.65.1:51729 as ESP8266Client-f7ae (p2, c1, k15).
+1743794708: New connection from 192.168.65.1:44159 on port 1883.
+1743794708: New client connected from 192.168.65.1:44159 as ESP8266Client-3895 (p2, c1, k15).
+1743794717: Client ESP8266Client-f7ae has exceeded timeout, disconnecting.
+1743794721: New connection from 192.168.65.1:43315 on port 1883.
+1743794721: New client connected from 192.168.65.1:43315 as ESP8266Client-d619 (p2, c1, k15).
+1743794731: Client ESP8266Client-3895 has exceeded timeout, disconnecting.
+1743794735: New connection from 192.168.65.1:24878 on port 1883.
+1743794735: New client connected from 192.168.65.1:24878 as ESP8266Client-5f04 (p2, c1, k15).
+1743794744: Client ESP8266Client-d619 has exceeded timeout, disconnecting.
+1743794748: New connection from 192.168.65.1:24491 on port 1883.
+1743794748: New client connected from 192.168.65.1:24491 as ESP8266Client-a078 (p2, c1, k15).
+1743794758: Client ESP8266Client-5f04 has exceeded timeout, disconnecting.
+1743794762: New connection from 192.168.65.1:39613 on port 1883.
+1743794762: New client connected from 192.168.65.1:39613 as ESP8266Client-1408 (p2, c1, k15).
+1743794771: Client ESP8266Client-a078 has exceeded timeout, disconnecting.
+1743794776: New connection from 192.168.65.1:36194 on port 1883.
+1743794776: New client connected from 192.168.65.1:36194 as ESP8266Client-a4ac (p2, c1, k15).
+1743794785: Client ESP8266Client-1408 has exceeded timeout, disconnecting.
+1743794799: Client ESP8266Client-a4ac has exceeded timeout, disconnecting.
+1743794810: New connection from 192.168.65.1:48740 on port 1883.
+1743794810: New client connected from 192.168.65.1:48740 as ESP8266Client-7655 (p2, c1, k15).
+1743794917: Client ESP8266Client-7655 has exceeded timeout, disconnecting.
+1743794928: New connection from 192.168.65.1:54225 on port 1883.
+1743794928: New client connected from 192.168.65.1:54225 as ESP8266Client-f167 (p2, c1, k15).
+1743795204: Client mqttx_d4c24322 has exceeded timeout, disconnecting.
+1743795209: New connection from 192.168.65.1:56841 on port 1883.
+1743795209: New client connected from 192.168.65.1:56841 as mqttx_d4c24322 (p5, c1, k60).
+1743795310: Client ESP8266Client-f167 has exceeded timeout, disconnecting.
+1743795323: New connection from 192.168.65.1:57719 on port 1883.
+1743795323: New client connected from 192.168.65.1:57719 as ESP8266Client-f5fd (p2, c1, k15).
+1743795394: Client ESP8266Client-f5fd has exceeded timeout, disconnecting.
+1743795405: New connection from 192.168.65.1:52758 on port 1883.
+1743795405: New client connected from 192.168.65.1:52758 as ESP8266Client-4af2 (p2, c1, k15).
+1743795647: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743796166: New client connected from ::ffff:192.168.65.1:16714 as mqttjs_de04494e (p2, c1, k60).
+1743796215: Client mqttjs_de04494e closed its connection.
+1743796215: New client connected from ::ffff:192.168.65.1:49363 as mqttjs_33a03032 (p2, c1, k60).
+1743796216: New client connected from ::ffff:192.168.65.1:30748 as mqttjs_bdf4dd42 (p2, c1, k60).
+1743796321: Client mqttjs_33a03032 closed its connection.
+1743796352: Client mqttjs_bdf4dd42 closed its connection.
+1743796352: New client connected from ::ffff:192.168.65.1:33870 as mqttjs_f0db5eae (p2, c1, k60).
+1743796353: New client connected from ::ffff:192.168.65.1:40692 as mqttjs_15474afa (p2, c1, k60).
+1743796406: Client mqttjs_15474afa closed its connection.
+1743796406: New client connected from ::ffff:192.168.65.1:39763 as mqttjs_f5200563 (p2, c1, k60).
+1743796407: New client connected from ::ffff:192.168.65.1:59352 as mqttjs_738db280 (p2, c1, k60).
+1743796492: Client mqttjs_738db280 closed its connection.
+1743796549: New client connected from ::ffff:192.168.65.1:41898 as mqttjs_24ca9e7d (p2, c1, k60).
+1743796549: Client mqttjs_24ca9e7d disconnected.
+1743796638: New client connected from ::ffff:192.168.65.1:26007 as mqttjs_45379a1c (p2, c1, k60).
+1743796644: Client mqttjs_45379a1c closed its connection.
+1743796644: New client connected from ::ffff:192.168.65.1:48918 as mqttjs_f3583384 (p2, c1, k60).
+1743796645: New client connected from ::ffff:192.168.65.1:22422 as mqttjs_5942f4f5 (p2, c1, k60).
+1743796648: Client mqttjs_5942f4f5 closed its connection.
+1743796648: New client connected from ::ffff:192.168.65.1:33719 as mqttjs_bd6b8f7d (p2, c1, k60).
+1743796743: Client mqttjs_bd6b8f7d disconnected.
+1743796753: New client connected from ::ffff:192.168.65.1:42335 as mqttjs_f2a15b19 (p2, c1, k60).
+1743796754: New client connected from ::ffff:192.168.65.1:23406 as mqttjs_f7702a80 (p2, c1, k60).
+1743797269: Client mqttjs_f7702a80 disconnected.
+1743797279: New client connected from ::ffff:192.168.65.1:28045 as mqttjs_adb76363 (p2, c1, k60).
+1743797279: New client connected from ::ffff:192.168.65.1:63190 as mqttjs_69941333 (p2, c1, k60).
+1743797448: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743797516: Client mqttjs_69941333 closed its connection.
+1743797516: New client connected from ::ffff:192.168.65.1:16196 as mqttjs_8a0eb924 (p2, c1, k60).
+1743797517: New client connected from ::ffff:192.168.65.1:52651 as mqttjs_5a818773 (p2, c1, k60).
+1743797522: Client mqttx_d4c24322 has exceeded timeout, disconnecting.
+1743797527: New connection from 192.168.65.1:22555 on port 1883.
+1743797527: New client connected from 192.168.65.1:22555 as mqttx_d4c24322 (p5, c1, k60).
+1743797820: Client mqttjs_5a818773 closed its connection.
+1743797820: New client connected from ::ffff:192.168.65.1:58606 as mqttjs_ffbb6e1c (p2, c1, k60).
+1743797825: New connection from 192.168.65.1:38542 on port 1883.
+1743797825: New client connected from 192.168.65.1:38542 as ESP8266Client-69bd (p2, c1, k15).
+1743797828: Client ESP8266Client-4af2 has exceeded timeout, disconnecting.
