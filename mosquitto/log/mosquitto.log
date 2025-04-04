@@ -302,3 +302,6 @@
 1743797825: New connection from 192.168.65.1:38542 on port 1883.
 1743797825: New client connected from 192.168.65.1:38542 as ESP8266Client-69bd (p2, c1, k15).
 1743797828: Client ESP8266Client-4af2 has exceeded timeout, disconnecting.
+1743798062: Client mqttx_d4c24322 has exceeded timeout, disconnecting.
+1743798067: New connection from 192.168.65.1:24980 on port 1883.
+1743798067: New client connected from 192.168.65.1:24980 as mqttx_d4c24322 (p5, c1, k60).
